@@ -1,2 +1,3 @@
 # Hello-World
-My 1st Repository
+Hi All,
+Rohan here, I like JAVA and love to solve real world problems.
